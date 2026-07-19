@@ -1,0 +1,26 @@
+# Environments
+.venv/
+venv/
+env/
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# IDE & Editor specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS specific hidden files
+.DS_Store
+Thumbs.db
+
+# Machine Learning / Jupyter
+.ipynb_checkpoints/
+# Note: Uncomment the line below if your model files get larger than 50MB-100MB
+# *.keras
+# *.h5
